@@ -1,8 +1,8 @@
-# RIP-version-2-with-Subnetting
+# RIP Version 2 Network with Subnetting using Cisco Packet Tracer
 
 ![Banner](screenshot/banner.png)
 
-# RIP Version 2 Network with Subnetting using Cisco Packet Tracer
+
 
 ## 📌 Project Overview
 
