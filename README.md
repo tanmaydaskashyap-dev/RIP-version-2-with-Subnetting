@@ -1,9 +1,6 @@
 # RIP-version-2-with-Subnetting
 ![Banner](screenshot/banner.png)
-![Stars](https://img.shields.io/github/stars/tanmaydaskashyap-dev/rip-v2-subnetting-packet-tracer?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/tanmaydaskashyap-dev/rip-v2-subnetting-packet-tracer?style=for-the-badge)
-![License](https://img.shields.io/github/license/tanmaydaskashyap-dev/rip-v2-subnetting-packet-tracer?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/tanmaydaskashyap-dev/rip-v2-subnetting-packet-tracer?style=for-the-badge)
+
 
 CCNA 
 
