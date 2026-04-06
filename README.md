@@ -1,9 +1,5 @@
 # RIP-version-2-with-Subnetting
-<p align="center">
-  <img src="https://img.shields.io/github/stars/tanmaydaskashyap-dev/RIP-version-2-with-Subnetting?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/tanmaydaskashyap-dev/RIP-version-2-with-Subnetting?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/tanmaydaskashyap-dev/RIP-version-2-with-Subnetting?style=for-the-badge">
-</p>
+
 ![Banner](screenshot/banner.png)
 
 
