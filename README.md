@@ -2,9 +2,6 @@
 
 ![Banner](screenshot/banner.png)
 
-
-CCNA 
-
 # RIP Version 2 Network with Subnetting using Cisco Packet Tracer
 
 ## 📌 Project Overview
